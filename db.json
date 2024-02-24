@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123"
+    },
+    {
+      "id": "0bdd",
+      "empId": "102",
+      "name": "Liya Lenin",
+      "email": "liya@gamil.com",
+      "status": "1"
+    },
+    {
+      "id": "e1a7",
+      "empId": "103",
+      "name": "Sanchu",
+      "email": "sanchu@gmail.com",
+      "status": "0"
+    }
+  ]
+}
